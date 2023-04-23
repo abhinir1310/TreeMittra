@@ -3,5 +3,7 @@ This is a wallpaper changing application based on nature theme using web develop
 ## TechStack : 
 - HTML
 - CSS
-- JavaScript
-- React
+- Laravel
+- Php
+- 
+
